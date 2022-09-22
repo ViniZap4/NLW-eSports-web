@@ -2,8 +2,8 @@
 
 ## versions
 
-- [ ] Web Version
-- [x] Mobile Version
+- [x] Web Version
+- [ ] Mobile Version
 - [ ] Back-end Version
 
 ## Description
